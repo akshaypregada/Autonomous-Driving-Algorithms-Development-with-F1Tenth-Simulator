@@ -74,8 +74,7 @@ This project focuses on developing and simulating autonomous driving algorithms 
 │   │   ├── particle_filter_localization.py
 │   └── main.py
 ├── README.md
-├── requirements.txt
-└── LICENSE
+
 ```
 
 ## Installation & Usage
